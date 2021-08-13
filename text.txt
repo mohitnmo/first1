@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 86DA-CFAE
+
+ Directory of C:\Users\mosharm\Desktop\p01
+
+08/13/2021  06:30 PM    <DIR>          .
+08/13/2021  06:30 PM    <DIR>          ..
+08/13/2021  06:27 PM               673 Hello.class
+08/13/2021  05:39 PM               142 Hello.java
+08/13/2021  06:30 PM                 0 text.txt
+               3 File(s)            815 bytes
+               2 Dir(s)  421,574,500,352 bytes free
